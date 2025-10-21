@@ -247,15 +247,6 @@ Credits apply to eligible campaigns run within TikTok Ads Manager; policy compli
 
 ---
 
-## 🧱 Repository Maintainers
-
-**Author:** Pradeep Singh / WPism Deals  
-**Last Updated:** 2025-10-21
-
-Contributions welcome—open an issue if you spot a new tier, window, or regional variant we should add.
-
----
-
 ## 📜 Disclosure
 
 This README contains **affiliate links**. If you sign up through our link, we may earn a commission at **no extra cost** to you. This supports ongoing verification and updates for the community.
